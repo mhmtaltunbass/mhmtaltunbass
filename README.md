@@ -27,4 +27,4 @@
 ---
 
 📫 **How to reach me:** mehmet.altunbas@example.com  
-🔗 [LinkedIn](www.linkedin.com/in/mehmet-altunnbas)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mehmet-altunnbas/)  
