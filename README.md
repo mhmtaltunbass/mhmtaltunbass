@@ -52,12 +52,5 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 
 ---
 
-## 📌 Featured Projects
-- [📱 Hospital Navigation App](https://github.com/mhmtaltunbass/hospital-navigation)  
-- [🛒 E-Commerce Flutter App](https://github.com/mhmtaltunbass/ecommerce-app)  
-- [🗂 Task Manager](https://github.com/mhmtaltunbass/task-manager)  
-
----
-
 📫 **How to reach me:** mehmet.altunbas@example.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mehmet-altunnbas/)  
