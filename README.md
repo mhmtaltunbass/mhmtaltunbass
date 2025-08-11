@@ -52,5 +52,5 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 
 ---
 
-📫 **How to reach me:** mehmet.altunbas@example.com  
+📫 **How to reach me:** mehmetaltunbas.info@gmail.com
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mehmet-altunnbas/)  
