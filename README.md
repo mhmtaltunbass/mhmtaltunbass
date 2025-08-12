@@ -16,7 +16,6 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 - 📱 Experienced in **Flutter & Dart**  
 - 🔥 Interested in **Firebase, REST APIs, and Cloud Services**  
 - 🎯 Goal: Become a **Fullstack Mobile Developer**  
-- ⚡ Fun fact: I love combining creativity with technology to solve real-life problems.
 
 ---
 
