@@ -1,5 +1,5 @@
 <!-- Profil GIF veya Kapak Görseli -->
-<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmem04OXEzZXh1cng5aGVrMGhwanE4dXl6ZmJjMzV6eGlmc2MxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" width="150" align="right"/>
+<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmem04OXEzZXh1cng5aGVrMGhwanE4dXl6ZmJjMzV6eGlmc2MxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" align="right"/>
 
 # Hi 👋, I'm Mehmet Altunbaş
 
