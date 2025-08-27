@@ -20,10 +20,7 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 - 🎯 Goal: Become a **Fullstack Mobile Developer**  
 
 
-## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhmtaltunbass&theme=radical&border_radius=10)](https://git.io/streak-stats)
-*/
----
+
 
 ## 🚀 Languages and Tools
 <p align="left">
