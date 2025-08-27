@@ -26,10 +26,10 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtaltunbass&layout=compact&theme=radical)
 
 ---
-
+/*
 ## 📈 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhmtaltunbass&theme=radical&border_radius=10)](https://git.io/streak-stats)
-
+*/
 ---
 
 ## 🚀 Languages and Tools
