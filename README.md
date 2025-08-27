@@ -19,14 +19,7 @@ I am a Computer Engineering student who is passionate about developing mobile ap
 - 🔥 Interested in **Firebase, REST APIs, and Cloud Services**  
 - 🎯 Goal: Become a **Fullstack Mobile Developer**  
 
----
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmtaltunbass&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtaltunbass&layout=compact&theme=radical)
-
----
-/*
 ## 📈 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhmtaltunbass&theme=radical&border_radius=10)](https://git.io/streak-stats)
 */
